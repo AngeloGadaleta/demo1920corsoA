@@ -2,7 +2,7 @@
 Repository dell'a.a 2019-2020 del corso A
 
 Edsger Wybe Dijkstra
-Netherlands - 1972
+Netherlands, Europe - 1972
 
 
 For fundamental contributions to programming as a high, intellectual 
